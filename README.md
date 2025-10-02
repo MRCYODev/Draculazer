@@ -18,7 +18,6 @@
    ```bash
    git clone https://github.com/MRCYODev/Draculazer
 
-
 ## Original Theme
 
 Get the Dracula The Lounge [here](https://github.com/dracula/thelounge)
